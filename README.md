@@ -68,23 +68,9 @@ Using an IDE:
 2. Add all .c files (main.c, ui.c, tickets.c, payments.c, utilities.c) to the project.
 3. Add all .h files to the project directory.
 4. Click Build & Run.
+   
+<img width="488" height="339" alt="image" src="https://github.com/user-attachments/assets/c5e07733-1b1b-4d69-ad63-4fd90b53ca2b" />
 
-📂 Project Structure
-TheWickedGood/
-│
-├── sales_log.txt          # Active daily logs (Auto-generated)
-├── history_archive.txt    # Past shift records (Auto-generated)
-│
-└── src/
-    ├── main.c             # Main entry point & loop
-    ├── ui.c               # Visuals & Menus
-    ├── ui.h               # UI Prototypes
-    ├── tickets.c          # Booking Logic & File I/O
-    ├── tickets.h          # Ticket/Seat Structures
-    ├── payments.c         # Payment Processing
-    ├── payments.h         # Payment Prototypes
-    ├── utilities.c        # Cursor & Input Helpers
-    └── utilities.h        # Constants & Config
     
 📝 Usage Guide
 1. Launch the System: You will see the "The Wicked Good" splash screen.
