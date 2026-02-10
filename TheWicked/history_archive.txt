@@ -1,0 +1,85 @@
+
+=== SHIFT CLOSED [Sun Dec 07 00:38:15 2025] | CASHOUT: $262.50 ===
+[Sun Dec 07 00:02:14 2025] Sold: 5 tickets | Total: $62.50
+[Sun Dec 07 00:05:27 2025] Sold: 2 tickets | Total: $25.00
+[Sun Dec 07 00:05:48 2025] Sold: 10 tickets | Total: $125.00
+[Sun Dec 07 00:26:04 2025] Sold: 2 tickets | Total: $25.00
+[Sun Dec 07 00:32:00 2025] Sold: 2 tickets | Total: $25.00
+=======================================================
+
+=== SHIFT CLOSED [Sun Dec 07 00:41:26 2025] | CASHOUT: $37.50 ===
+[Sun Dec 07 00:41:04 2025] Sold: 3 tickets | Total: $37.50
+=======================================================
+
+=== SHIFT CLOSED [Sun Dec 07 01:26:44 2025] | CASHOUT: $5450.00 ===
+[Sun Dec 07 01:08:43 2025] Sold: 10 tickets | Total: $125.00
+[Sun Dec 07 01:11:24 2025] Sold: 10 tickets | Total: $125.00
+[Sun Dec 07 01:25:40 2025] Sold: 6 tickets | Total: $4320.00
+[Sun Dec 07 01:26:18 2025] Sold: 2 tickets | Total: $880.00
+=======================================================
+
+=== SHIFT CLOSED [Sun Dec 07 01:33:22 2025] | CASHOUT: $150.00 ===
+[Sun Dec 07 01:31:19 2025] Sold: 3 tickets | Total: $75.00
+[Sun Dec 07 01:32:57 2025] Sold: 5 tickets | Total: $75.00
+=======================================================
+
+=== SHIFT CLOSED [Sun Dec 07 13:41:23 2025] | CASHOUT: $300.00 ===
+[Sun Dec 07 01:34:52 2025] Sold: 3 tickets | Total: $45.00
+[Sun Dec 07 01:37:09 2025] Sold: 3 tickets | Total: $75.00
+[Sun Dec 07 01:40:24 2025] Sold: 2 tickets | Total: $30.00
+[Sun Dec 07 01:48:30 2025] Sold: 3 tickets | Total: $45.00
+[Sun Dec 07 01:49:03 2025] Sold: 5 tickets | Total: $75.00
+[Sun Dec 07 01:49:38 2025] Sold: 2 tickets | Total: $30.00
+=======================================================
+
+=== SHIFT CLOSED [Sun Dec 07 13:55:45 2025] | CASHOUT: $420.00 ===
+[Sun Dec 07 13:48:42 2025] Sold: 18 tickets | Total: $270.00
+[Sun Dec 07 13:50:08 2025] Sold: 6 tickets | Total: $150.00
+=======================================================
+
+=== SHIFT CLOSED [Sun Dec 07 14:35:10 2025] | CASHOUT: $270.00 ===
+[Sun Dec 07 13:58:51 2025] Sold: 2 tickets | Total: $50.00
+[Sun Dec 07 13:59:58 2025] Sold: 3 tickets | Total: $75.00
+[Sun Dec 07 14:08:08 2025] Sold: 2 tickets | Total: $30.00
+[Sun Dec 07 14:10:00 2025] Sold: 6 tickets | Total: $90.00
+[Sun Dec 07 14:10:37 2025] Sold: 1 tickets | Total: $25.00
+=======================================================
+
+=== SHIFT CLOSED [Sun Dec 07 14:48:18 2025] | CASHOUT: $75.00 ===
+[Sun Dec 07 14:46:43 2025] Sold: 4 tickets | Total: $60.00
+[Sun Dec 07 14:47:48 2025] Sold: 1 tickets | Total: $15.00
+=======================================================
+
+=== SHIFT CLOSED [Sun Dec 07 14:57:34 2025] | CASHOUT: $195.00 ===
+[Sun Dec 07 14:55:42 2025] Sold: 6 tickets | Total: $150.00
+[Sun Dec 07 14:56:40 2025] Sold: 3 tickets | Total: $45.00
+=======================================================
+
+=== SHIFT CLOSED [Wed Dec 10 11:36:17 2025] | CASHOUT: PHP5550.00 ===
+[Wed Dec 10 11:35:12 2025] Sold: 6 tickets | Total: $4200.00
+[Wed Dec 10 11:35:49 2025] Sold: 3 tickets | Total: $1350.00
+=======================================================
+
+=== SHIFT CLOSED [Fri Dec 12 16:31:16 2025] | CASHOUT: PHP29310.00 ===
+[Fri Dec 12 15:40:15 2025] Sold: 5 tickets | Total: PHP5300.00
+[Fri Dec 12 15:40:43 2025] Sold: 2 tickets | Total: PHP900.00
+[Fri Dec 12 15:49:47 2025] Sold: 2 tickets | Total: PHP2050.00
+[Fri Dec 12 15:50:35 2025] Sold: 6 tickets | Total: PHP2700.00
+[Fri Dec 12 16:08:16 2025] Sold: 1 tickets | Total: PHP2710.00
+[Fri Dec 12 16:25:27 2025] Sold: 1 tickets | Total: PHP 850.00
+[Fri Dec 12 16:26:16 2025] Sold: 5 tickets | Total: PHP 3500.00
+[Fri Dec 12 16:27:16 2025] Sold: 4 tickets | Total: PHP 1800.00
+[Fri Dec 12 16:28:03 2025] Sold: 1 tickets | Total: PHP 700.00
+[Fri Dec 12 16:29:26 2025] Sold: 16 tickets | Total: PHP 7200.00
+[Fri Dec 12 16:30:04 2025] Sold: 1 tickets | Total: PHP 450.00
+[Fri Dec 12 16:30:31 2025] Sold: 1 tickets | Total: PHP 450.00
+[Fri Dec 12 16:31:01 2025] Sold: 1 tickets | Total: PHP 700.00
+=======================================================
+
+=== SHIFT CLOSED [Fri Dec 12 17:07:18 2025] | CASHOUT: PHP450.00 ===
+[Fri Dec 12 17:04:43 2025] Sold: 1 tickets | Total: PHP 450.00
+=======================================================
+
+=== SHIFT CLOSED [Tue Feb 10 21:19:03 2026] | CASHOUT: PHP2980.00 ===
+[Tue Feb 10 21:18:07 2026] Sold: 3 tickets | Total: PHP 2980.00
+=======================================================
